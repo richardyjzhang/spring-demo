@@ -1,5 +1,6 @@
 package me.zhangrichard.nacosprovider;
 
+import me.zhangrichard.nacoscommon.User;
 import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Select;
 

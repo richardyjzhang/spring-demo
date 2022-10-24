@@ -1,5 +1,6 @@
 package me.zhangrichard.nacosconsumer;
 
+import me.zhangrichard.nacoscommon.User;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.GetMapping;
 

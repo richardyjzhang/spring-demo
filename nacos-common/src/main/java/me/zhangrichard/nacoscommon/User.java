@@ -1,4 +1,4 @@
-package me.zhangrichard.nacosconsumer;
+package me.zhangrichard.nacoscommon;
 
 import lombok.Data;
 
